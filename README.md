@@ -177,6 +177,7 @@ temple.html
 </body>
 </html>
 
+```
 ## output:
 ![Output](./screeshots/out1.png)
 
