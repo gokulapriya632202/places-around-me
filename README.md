@@ -179,15 +179,15 @@ temple.html
 
 ```
 ## output:
-![Output](./screeshots/out1.png)
+![Output](./screenshots/out1.png)
 
-![Output](./screeshots/out2.png)
+![Output](./screenshots/out2.png)
 
-![Output](./screeshots/out3.png)
+![Output](./screenshots/out3.png)
 
-![Output](./screeshots/out4.png)
+![Output](./screenshots/out41.png)
 
-![Output](./screeshots/out5.png)
+![Output](./screenshots/out5.png)
 
 ![Output](./screenshots/out6.png)
 
